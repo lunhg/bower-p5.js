@@ -1,0 +1,20 @@
+{
+  "name": "bower-p5",
+  "authors": [
+    "lunhanig@gmail.com"
+  ],
+  "description": "bower package for p5.js",
+  "main": "js/p5.js",
+  "keywords": [
+    "processing"
+  ],
+  "license": "CC 4.0",
+  "homepage": "lunhg.github.io/bower-p5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
