@@ -4,7 +4,12 @@
     "lunhanig@gmail.com"
   ],
   "description": "bower package for p5.js",
-  "main": "assets/js/p5.js",
+  "main": [
+      "assets/js/p5.js",
+      "assets/js/p5.dom.js",
+      "assets/js/gistSketch.js",
+      "assets/js/perlin-noise-simplex.js"
+  ],
   "keywords": [
     "processing"
   ],
